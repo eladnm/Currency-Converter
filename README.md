@@ -1,2 +1,2 @@
 # Currency-Converter
-Convert currencies using Fixer API using JASON
+Convert currencies using Fixer API using JSON
